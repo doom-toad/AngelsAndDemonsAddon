@@ -1,2 +1,0 @@
-function admin/enforce_owner
-function cooldown_tick
